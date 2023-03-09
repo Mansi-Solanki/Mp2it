@@ -1,0 +1,1430 @@
+# Translation of Plugins - TablePress - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - TablePress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-10 18:23:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - TablePress - Stable (latest release)\n"
+
+#: views/view-edit.php:275 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:212
+msgctxt "keyboard shortcut for Move right"
+msgid "%1$s⇧→"
+msgstr "%1$s⇧→"
+
+#: views/view-edit.php:274 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:206
+msgctxt "keyboard shortcut for Move left"
+msgid "%1$s⇧←"
+msgstr "%1$s⇧←"
+
+#: views/view-edit.php:270 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:200
+msgctxt "keyboard shortcut for Move down"
+msgid "%1$s⇧↓"
+msgstr "%1$s⇧↓"
+
+#: views/view-edit.php:269 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:194
+msgctxt "keyboard shortcut for Move up"
+msgid "%1$s⇧↑"
+msgstr "%1$s⇧↑"
+
+#: views/view-edit.php:244 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:112
+msgctxt "keyboard shortcut for Advanced Editor"
+msgid "%1$sE"
+msgstr "%1$sE"
+
+#: views/view-edit.php:243 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:107
+msgctxt "keyboard shortcut for Insert Image"
+msgid "%1$sI"
+msgstr "%1$sI"
+
+#: views/view-edit.php:242 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:102
+msgctxt "keyboard shortcut for Insert Link"
+msgid "%1$sL"
+msgstr "%1$sL"
+
+#: blocks/table/block.json
+msgctxt "block keyword"
+msgid "table"
+msgstr "جدول"
+
+#: blocks/table/block.json
+msgctxt "block description"
+msgid "Embed a TablePress table."
+msgstr "جاسازی (امبد) یک جدول TablePress"
+
+#: blocks/table/block.json
+msgctxt "block title"
+msgid "TablePress table"
+msgstr "جدول TablePress"
+
+#: views/view-options.php:196
+msgid "<a href=\"%s\">Read more in the TablePress FAQ.</a>"
+msgstr "<a href=\"%s\">در سؤالات متداول TablePress بیشتر بخوانید.</a>"
+
+#: views/view-options.php:196
+msgid "To change the table colors, you can easily set new ones with CSS variables."
+msgstr "برای تغییر رنگ‌های جدول، می‌توانید به‌آسانی رنگ‌های جدید را با متغیرهای CSS تنظیم کنید."
+
+#: views/view-options.php:195
+msgid "TablePress feature: Styling tables with CSS Custom Properties"
+msgstr "قابلیت TablePress: قالب‌بندی جدول‌ها با خصوصیات سفارشی CSS"
+
+#: views/view-list.php:77
+msgid "TablePress has more to offer!"
+msgstr "TablePress چیزهای بیشتری برای پیشنهاد دارد!"
+
+#: views/view-list.php:74
+msgid "Tell me more about the Premium features"
+msgstr "دربارۀ قابلیت‌های افزونۀ حرفه‌ای بیشتر توضیح بده"
+
+#: views/view-list.php:66
+msgid "I hope that everything works and that you are satisfied with the results of managing your %s table."
+msgid_plural "I hope that everything works and that you are satisfied with the results of managing your %s tables."
+msgstr[0] "امیدوارم همه چیز به‌درستی کار کند و از نتایج مدیریت جدول(های) %s خود راضی باشید."
+
+#: views/view-list.php:64
+msgid "Thank you for using it!"
+msgstr "بابت استفاده از آن ممنون!"
+
+#: views/view-list.php:47
+msgid "Thank you for choosing TablePress, the most popular table plugin for WordPress!"
+msgstr "از شما بابت انتخاب TablePress -پرطرفدارترین افزونۀ ساخت جدول در وردپرس- ممنونیم!"
+
+#: views/view-import.php:156
+msgid "— Select or type —"
+msgstr "— انتخاب یا تایپ کنید —"
+
+#: views/view-import.php:104
+msgid "Click to select files, or drag them here."
+msgstr "برای انتخاب پرونده‌ها کلیک کنید؛ یا آن‌ها را به اینجا بکشید."
+
+#: views/view-import.php:67
+msgid "TablePress can import tables from common spreadsheet applications, like XLSX files fom Excel, or CSV, ODS, HTML, and JSON files."
+msgstr "TablePress می‌تواند جدول‌ها را از نرم‌افزارهای رایج صفحه‌گسترده درون‌ریزی کند؛ مانند پرونده‌های XLSX از اکسل یا فایل‌های CSV، ODS، HTML و JSON."
+
+#: views/view-export.php:140 admin/js/build/export.js:1 admin/js/export.js:31
+msgctxt "keyboard key"
+msgid "Shift"
+msgstr "Shift"
+
+#: views/view-export.php:140
+msgctxt "keyboard key"
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: views/view-edit.php:601
+msgid "Right-clicking the table content fields will open a context menu for quick access to common editing tools."
+msgstr "راست‌کلیک کردن روی فیلدهای جدول باعث باز شدن یک منوی تنظیمات -برای دسترسی سریع به ابزارهای رایج ویرایش- خواهد شد."
+
+#: views/view-edit.php:601 views/view-import.php:189 views/view-options.php:196
+msgid "Did you know?"
+msgstr "آیا می‌دانید؟"
+
+#: views/view-edit.php:600
+msgid "TablePress feature: Context menu"
+msgstr "قابلیت TablePress: منوی تنظیمات (Context menu)"
+
+#: views/view-edit.php:471
+msgid "Offer the following functions for site visitors with this table:"
+msgstr "قابلیت‌های زیر را برای جدول به بازدیدکنندگان وبگاه پیشنهاد می‌دهد:"
+
+#: views/view-edit.php:470 admin/js/build/edit.js:1 admin/js/edit.js:314
+msgid "Enable Visitor Features"
+msgstr "فعال کردن قابلیت‌هایی برای بازدیدکننده"
+
+#: views/view-edit.php:447
+msgctxt "position (above or below)"
+msgid "Show the table description %s the table."
+msgstr "نمایش توضیحات جدول در %s"
+
+#: views/view-edit.php:437
+msgctxt "position (above or below)"
+msgid "Show the table name %s the table."
+msgstr "نمایش عنوان جدول در %s"
+
+#: views/view-edit.php:320
+msgctxt "keyboard shortcut for Save Changes"
+msgid "%1$sS"
+msgstr "%1$sS"
+
+#: views/view-edit.php:317
+msgctxt "keyboard shortcut for Preview"
+msgid "%1$sP"
+msgstr "%1$sP"
+
+#: views/view-edit.php:275
+msgid "Move right"
+msgstr "جابجایی به راست"
+
+#: views/view-edit.php:274
+msgid "Move left"
+msgstr "جابجایی به چپ"
+
+#: views/view-edit.php:270
+msgid "Move down"
+msgstr "جابجایی به پایین"
+
+#: views/view-edit.php:269
+msgid "Move up"
+msgstr "جابجایی به بالا"
+
+#: views/view-edit.php:248 views/view-edit.php:394
+msgid "Combine/Merge"
+msgstr "ملحق کردن/ادغام"
+
+#: views/view-edit.php:241 views/view-edit.php:247
+msgid "Selected cells"
+msgstr "سلول‌های منتخب"
+
+#: views/view-edit.php:76 admin/js/build/edit.js:1 admin/js/edit.js:314
+msgid "Table Features for Site Visitors"
+msgstr "قابلیت‌های جدول برای بازدیدکنندگان وبگاه"
+
+#: views/class-all-tables-list-table.php:456
+#: views/class-editor-button-thickbox-list-table.php:234
+msgid "%s table"
+msgid_plural "%s tables"
+msgstr[0] "%s جدول"
+
+#: views/class-all-tables-list-table.php:220 admin/js/build/edit.js:1
+#: admin/js/edit.js:691
+msgid "Preview of table “%1$s” (ID %2$s)"
+msgstr "پیش‌نمایش جدول «%1$s» (شناسه %2$s)"
+
+#: controllers/controller-admin_ajax.php:279 views/view-about.php:111
+#: views/view-edit.php:589 views/view-list.php:191
+#: views/view-preview_table.php:66
+msgid "To insert a table into a post or page, paste its Shortcode at the desired place in the editor."
+msgstr "برای وارد کردن جدول به یک نوشته یا برگه، کد کوتاه آن را در محل دلخواه در ویرایشگر قرار دهید."
+
+#: controllers/controller-admin_ajax.php:277 views/view-about.php:109
+#: views/view-edit.php:587 views/view-list.php:189
+#: views/view-preview_table.php:64 blocks/table/build/index.js:1
+#: blocks/table/src/edit.js:87
+msgid "TablePress table"
+msgstr "جدول TablePress"
+
+#: controllers/controller-admin_ajax.php:277 views/view-about.php:109
+#: views/view-edit.php:587 views/view-list.php:189
+#: views/view-preview_table.php:64
+msgid "To insert a table into a post or page, add a “%1$s” block in the block editor and select the desired table."
+msgstr "برای وارد کردن جدول به یک نوشته یا برگه، یک بلاک “%1$s” را در ویرایشگر بلاک اضافه و جدول دلخواه را انتخاب کنید."
+
+#: controllers/controller-admin.php:376
+msgid "Go Premium"
+msgstr "خرید نسخۀ حرفه‌ای"
+
+#: classes/class-view.php:412
+msgid "Upgrade to Premium"
+msgstr "ارتقا به نسخۀ حرفه‌ای"
+
+#: classes/class-view.php:408
+msgid "TablePress plugin logo"
+msgstr "نماد افزونۀ TablePress"
+
+#: classes/class-view.php:215
+msgid "Error code: %s"
+msgstr "کد خطا: %s"
+
+#: classes/class-view.php:103 views/view-about.php:139
+msgid "Common questions are answered in the <a href=\"%s\">FAQ</a>."
+msgstr "سؤال‌های رایج، در بخش <a href=\"%s\">سؤالات متداول</a> پاسخ داده شده‌اند."
+
+#: views/view-edit.php:451
+msgid "This field can only contain letters, numbers, spaces, hyphens (-), underscores (_), and colons (:)."
+msgstr "این فیلد تنها می‌تواند شامل حرف، عدد، فاصله، خط تیره (-)، آندرلاین (_)و دونقطه (:) باشد."
+
+#: views/view-edit.php:583
+msgid "To edit the content or modify the structure of this table, use the input fields and buttons below."
+msgstr "برای ویرایش محتوا یا تغییر ساختار این جدول، از فیلدهای ورودی و دکمه‌های زیر استفاده کنید."
+
+#: views/view-options.php:58
+msgid "Frontend Options and Styling"
+msgstr "گزینه‌های فوراند و طراحی"
+
+#: controllers/controller-admin.php:400 controllers/controller-admin.php:485
+#: controllers/controller-admin.php:732 controllers/controller-admin.php:788
+#: controllers/controller-admin.php:860 controllers/controller-admin.php:901
+#: controllers/controller-admin.php:1021 controllers/controller-admin.php:1110
+#: controllers/controller-admin.php:1137 controllers/controller-admin.php:1178
+#: controllers/controller-admin.php:1217 controllers/controller-admin.php:1268
+#: controllers/controller-admin.php:1294
+msgid "Sorry, you are not allowed to access this page."
+msgstr "با عرض پوزش، شما اجازهٔ دسترسی به این برگه را ندارید."
+
+#: views/class-all-tables-list-table.php:157
+msgid "Bulk action selector"
+msgstr "انتخاب‌گر کنش جمعی"
+
+#: views/view-edit.php:556
+msgid "The following error was registered: %s."
+msgstr "این خطا ثبت شده است: %s."
+
+#: views/view-edit.php:504
+msgid "Additional parameters from the <a href=\"%s\">DataTables documentation</a> to be added to the JS call."
+msgstr "پارامترهای افزوده از <a href=\"%s\">مستندات DataTables</a> برای اضافه به درخواست جاواسکریپت."
+
+#: classes/class-tablepress.php:402
+msgid "unknown"
+msgstr "ناشناس"
+
+#: classes/class-admin-page-helper.php:109
+msgid "Thank you for using <a href=\"%s\">TablePress</a>."
+msgstr "برای استفاده از <a href=\"%s\">جدول‌پرس</a> سپاسگزاریم."
+
+#: views/view-about.php:246
+msgid "the translators in the <a href=\"%s\">Plugin Directory</a>,"
+msgstr "ترجمه‌ها در <a href=\"%s\">دایرکتوری افزونه‌ها</a>،"
+
+#: views/view-about.php:245
+msgid "Allan Jardine for <a href=\"%s\">DataTables</a>,"
+msgstr "Allan Jardine برای <a href=\"%s\">DataTables</a>،"
+
+#. Author URI of the plugin
+msgid "https://tobias.baethge.com/"
+msgstr "https://tobias.baethge.com/"
+
+#. Author of the plugin
+msgid "Tobias Bäthge"
+msgstr "Tobias Bäthge"
+
+#. Description of the plugin
+msgid "Embed beautiful and feature-rich tables into your posts and pages, without having to write code."
+msgstr "بدون نیاز به نوشتن کد، جدول‌هایی با امکانات پیشرفته و زیبا را در نوشته‌ها و برگه‌های خودتان جاسازی کنید."
+
+#. Plugin URI of the plugin
+msgid "https://tablepress.org/"
+msgstr "https://tablepress.org/"
+
+#: views/view-options_custom_css.php:146
+msgid "Proceed without saving &#8220;Custom CSS&#8221; to a file"
+msgstr "بدون ذخیرۀ &#8220;Custom CSS&#8221; در فایل پردازش شد"
+
+#: views/view-options_custom_css.php:144
+msgid "Your &#8220;Custom CSS&#8221; will then be loaded inline."
+msgstr "سپس &#8220;Custom CSS&#8221; شما به‌صورت درون‌خطی بارگیری می‌شود."
+
+#: views/view-options_custom_css.php:143
+msgid "To proceed without trying to save the &#8220;Custom CSS&#8221; to a file, click the button below."
+msgstr "برای پردازش بدون تلاش برای ذخیرۀ &#8220;Custom CSS&#8221; در یک فایل، کلید زیر را انتخاب کنید."
+
+#: views/view-options_custom_css.php:141
+msgid "Proceed without saving a file"
+msgstr "بدون ذخیره پرونده ادامه دهید"
+
+#: views/view-options_custom_css.php:114
+msgid "Connection Information"
+msgstr "اطلاعات اتصال"
+
+#: views/view-options_custom_css.php:114
+msgid "To try again with the same method that you use for updating plugins or themes, please fill out the &#8220;%s&#8221; form below."
+msgstr "برای تلاش دوباره با همان روشی که برای به‌روزرسانی افزونه‌ها یا تم‌ها استفاده می‌کنید، لطفاً &#8220;%s&#8221; فرم زیر را تکمیل کنید."
+
+#: views/view-options_custom_css.php:40
+msgid "Attention: Further action is required to save the changes to your &#8220;Custom CSS&#8221;!"
+msgstr "توجه: اقدامات بیشتری نیاز است تا تغییرات در &#8220;Custom CSS&#8221; شما ذخیر شود!"
+
+#: views/view-options.php:182
+msgid "Be very careful with this and only click the button if you know what you are doing!"
+msgstr "در این‌باره بسیار مراقب باشید و فقط در صورتی روی دکمه کلیک کنید که می‌دانید چه کاری انجام می‌دهید!"
+
+#: views/view-options.php:181
+msgid "You will manually need to remove the plugin&#8217;s files from the plugin folder afterwards."
+msgstr "پس از آن نیاز دارید فایل‌های plugin&#8217;s را به‌صورت دستی از پوشۀ افزونه حذف کنید."
+
+#: views/view-options.php:180
+msgid "It is recommended that you create a backup of the tables (by exporting the tables in the JSON format), in case you later change your mind."
+msgstr "پیشنهاد می‌شود از جدول‌ها پشتیبان تهیه کنید (به‌وسیلۀ برون‌بری در قالب JSON) تا اگر بعداً نظرتان عوض شد، بتوانید جدول‌ها را برگردانید."
+
+#: views/view-options.php:179
+msgid "Uninstalling <strong>will permanently delete</strong> all TablePress tables and options from the database."
+msgstr "حذف افزونه <strong>باعث می‌شود تمام جدول‌ها و تنظیمات TablePress از پایگاه‌داده حذف شوند</strong>."
+
+#: views/view-options.php:160
+msgid "TablePress shall be shown in this section of my admin menu: %s"
+msgstr "لازم است TablePress در این بخش از فهرست مدیریت نمایش داده شود: %s"
+
+#: views/view-options.php:159
+msgid "Admin menu entry"
+msgstr "محل منوی مدیریت"
+
+#: views/view-options.php:149
+msgid "Top-Level (bottom)"
+msgstr "سطح بالا (پایین)"
+
+#: views/view-options.php:148
+msgid "Top-Level (middle)"
+msgstr "سطح بالا (میانه)"
+
+#: views/view-options.php:147
+msgid "Top-Level (top)"
+msgstr "سطح بالا (بالا)"
+
+#: views/view-options.php:111
+msgid "Please note that invalid CSS code will be stripped, if it can not be corrected automatically."
+msgstr "توجه داشته باشید که کدهای نامعتبر CSS اگر به‌صورت خودکار اصلاح نشوند، ملغی خواهند شد."
+
+#: views/view-options.php:109
+msgid "Information on available CSS selectors can be found in the <a href=\"%s\">Documentation</a>."
+msgstr "اطلاعات لازم دربارۀ انتخابگرهای دردسترس CSS در <a href=\"%s\">مستندات</a> قرار دارد."
+
+#: views/view-options.php:107
+msgid "You can get styling examples from the <a href=\"%s\">FAQ</a>."
+msgstr "مثال‌هایی از تنظیمات ظاهری را می‌توانید در <a href=\"%s\">سؤالات متداول</a> ببینید."
+
+#: views/view-options.php:105
+msgid "&#8220;Custom CSS&#8221; (<a href=\"%s\">Cascading Style Sheets</a>) can be used to change the styling or layout of a table."
+msgstr "&#8220;Custom CSS&#8221; (<a href=\"%s\">Cascading Style Sheets</a>) می‌توانند برای تغییرات ظاهری یا تغییر در چیدمان جدول استفاده شوند."
+
+#: views/view-options.php:96
+msgid "Load this &#8220;Custom CSS&#8221; code to change the table styling:"
+msgstr "این کد &#8220;Custom CSS&#8221; را برای تغییر ظاهر جدول بارگذاری کنید:"
+
+#: views/view-options.php:95
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+#: views/view-options.php:78
+msgid "TablePress has some options which affect the plugin&#8217;s behavior in different areas."
+msgstr "TablePress تنظیماتی دارد که بر رفتار plugin&#8217;s در نواحی مختلف اثر می‌گذارد."
+
+#: views/view-options.php:60
+msgid "User Options"
+msgstr "تنظیمات کاربر"
+
+#: views/view-options.php:45
+msgid "Error: Options could not be saved."
+msgstr "خطا: امکان ذخیرۀ گزینه‌ها وجود ندارد."
+
+#: views/view-options.php:44
+msgid "Options saved successfully, but &#8220;Custom CSS&#8221; was not saved to file."
+msgstr "گزینه‌ها با موفقیت ذخیره شدند؛ اما &#8220;Custom CSS&#8221; در فایل ذخیره نشد."
+
+#: views/view-options.php:43
+msgid "Options saved successfully."
+msgstr "تنظیمات با موفقیت ثبت شد."
+
+#: views/class-all-tables-list-table.php:406
+msgid "You should <a href=\"%s\">import</a> a table to get started!"
+msgstr "شما باید برای شروع <a href=\"%s\">یک جدول درون‌ریزی</a> کنید!"
+
+#: views/class-all-tables-list-table.php:404
+msgid "You should <a href=\"%s\">add</a> a table to get started!"
+msgstr "شما باید برای شروع <a href=\"%s\">یک جدول اضافه</a> کنید!"
+
+#: views/class-all-tables-list-table.php:383
+msgid "Apply"
+msgstr "اعمال"
+
+#: views/class-all-tables-list-table.php:378
+msgid "Bulk Actions"
+msgstr "اقدامات گروهی"
+
+#: views/class-all-tables-list-table.php:376
+msgid "Select Bulk Action"
+msgstr "انتخاب اقدام گروهی"
+
+#: views/class-all-tables-list-table.php:343
+msgctxt "bulk action"
+msgid "Delete"
+msgstr "حذف"
+
+#: views/class-all-tables-list-table.php:340
+msgctxt "bulk action"
+msgid "Export"
+msgstr "برون‌بری"
+
+#: views/class-all-tables-list-table.php:337
+msgctxt "bulk action"
+msgid "Copy"
+msgstr "کپی"
+
+#: views/class-all-tables-list-table.php:217
+msgid "Delete &#8220;%s&#8221;"
+msgstr "حذفِ &#8220;%s&#8221;"
+
+#: views/class-all-tables-list-table.php:214
+msgctxt "row action"
+msgid "Export"
+msgstr "برون‌بری"
+
+#: views/class-all-tables-list-table.php:214
+msgid "Export &#8220;%s&#8221;"
+msgstr "برون‌بری &#8220;%s&#8221;"
+
+#: views/class-all-tables-list-table.php:211 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:75
+msgid "Copy"
+msgstr "کپی"
+
+#: views/class-all-tables-list-table.php:211
+msgid "Copy &#8220;%s&#8221;"
+msgstr "کپیِ &#8220;%s&#8221;"
+
+#: views/class-all-tables-list-table.php:209
+msgid "Show Shortcode"
+msgstr "نمایش کدکوتاه"
+
+#: views/class-all-tables-list-table.php:200
+#: views/class-all-tables-list-table.php:207
+msgid "Edit &#8220;%s&#8221;"
+msgstr "ویرایش &#8220;%s&#8221;"
+
+#: views/class-all-tables-list-table.php:94
+msgid "Last Modified By"
+msgstr "آخرین ویرایش توسط"
+
+#: views/class-all-tables-list-table.php:93
+msgid "Author"
+msgstr "نویسنده"
+
+#: controllers/controller-admin_ajax.php:280 views/view-about.php:113
+#: views/view-list.php:193 views/view-preview_table.php:68
+msgid "Each table has a unique ID that needs to be adjusted in that Shortcode."
+msgstr "هر جدول یک شناسۀ یکتا دارد که باید در کد کوتاه آن قرار داده شود."
+
+#: views/view-editor_button_thickbox.php:117 views/view-list.php:185
+msgid "This is a list of your tables."
+msgstr "این فهرستی از جدول‌های شما است."
+
+#: views/view-list.php:115
+msgid "Tables"
+msgstr "جدول‌ها"
+
+#: views/view-list.php:109
+msgid "The tables were imported successfully."
+msgstr "جدول‌ها باموفقیت بازنشانی شدند."
+
+#: views/view-list.php:108
+msgid "Notice: Not all selected tables could be copied!"
+msgstr "توجه: همۀ جدول‌های انتخاب‌شده قابل کپی نیست!"
+
+#: views/view-list.php:107
+msgid "Notice: Not all selected tables could be deleted!"
+msgstr "توجه: همۀ جدول‌های انتخاب‌شده قابل‌حذف نیستند."
+
+#: views/view-list.php:106
+msgid "Error: You did not select any tables!"
+msgstr "خطا: هیچ جدولی انتخاب نشده است."
+
+#: views/view-list.php:105
+msgid "Error: This bulk action is invalid!"
+msgstr "خطا: کار دسته جمعی معتبر نیست!"
+
+#: views/view-list.php:103
+msgid "Error: You did not specify a valid table ID."
+msgstr "خطا: آی دی جدول معتبری را مشخص نکرده اید."
+
+#: views/view-list.php:102
+msgid "Error: The table could not be copied."
+msgstr "خطا: جدول قابل کپی شدن نیست."
+
+#: views/view-list.php:100
+msgid "The copied table has the table ID &#8220;%s&#8221;."
+msgstr "جدول کپی‌شده دارای شناسۀ &#8220;%s&#8221; است."
+
+#: views/view-list.php:97 views/view-list.php:98
+msgid "The table was deleted successfully."
+msgid_plural "The tables were deleted successfully."
+msgstr[0] "جدول(ها) باموفقیت حذف شد(ند)."
+
+#: views/view-list.php:91
+msgid "Thank you for updating to TablePress %s!"
+msgstr "از شما برای به‌روزرسانی TablePress %s سپاسگزاریم!"
+
+#: views/view-list.php:73
+msgid "Sincerely, Tobias"
+msgstr "با احترام، توبیاس"
+
+#: views/view-list.php:63
+msgid "Hi, my name is Tobias, I&#8217;m the developer of the TablePress plugin."
+msgstr "سلام. اسم من Tobias است. من توسعه‌دهندۀ افزونۀ TablePress هستم."
+
+#: views/view-list.php:62
+msgid "Tobias Bäthge, developer of TablePress"
+msgstr "توسعه‌دهنده TablePress: Tobias Bäthge"
+
+#: views/view-list.php:54 views/view-list.php:75 views/view-list.php:89
+msgid "Hide this message"
+msgstr "پنهان کردن این پیام"
+
+#: views/view-list.php:56
+msgid "Welcome!"
+msgstr "خوش آمدید!"
+
+#: views/view-import.php:176
+msgctxt "button"
+msgid "Import"
+msgstr "درون‌ریزی"
+
+#: views/view-import.php:153
+msgid "Table to replace or append to"
+msgstr "جدولی که جایگزین می‌شود یا ردیف‌ها به آن اضافه می‌شوند"
+
+#: views/view-import.php:149
+msgid "Append rows to existing table"
+msgstr "ردیف‌ها را به جدول موجود اضافه کن"
+
+#: views/view-import.php:148
+msgid "Replace existing table"
+msgstr "جایگزین یکی از جدول‌های موجود کن"
+
+#: views/view-import.php:147
+msgid "Add as new table"
+msgstr "افزودن به عنوان جدول جدید"
+
+#: views/view-import.php:145
+msgid "Add, Replace, or Append?"
+msgstr "ایجاد، جایگزینی یا اضافه کردن؟"
+
+#: views/view-import.php:139
+msgid "Import data"
+msgstr "درون‌ریزی داده"
+
+#: views/view-import.php:127
+msgid "Server Path to file"
+msgstr "مسیر پرونده در سرور"
+
+#: views/view-import.php:115
+msgid "File URL"
+msgstr "آدرس پرونده"
+
+#: views/view-import.php:109 views/view-import.php:120
+#: views/view-import.php:132
+msgid "You can also import multiple tables by placing them in a ZIP file."
+msgstr "همچنین با تجمیع جدول‌ها در یک فایل ZIP، می‌توانید چند جدول را هم‌زمان درون‌ریزی کنید."
+
+#: views/view-import.php:99
+msgid "Select files"
+msgstr "انتخاب پرونده(ها) را انتخاب کنید"
+
+#: views/view-import.php:95
+msgid "Manual Input"
+msgstr "ورودی دستی"
+
+#: views/view-import.php:93
+msgid "File on server"
+msgstr "پرونده در سرور"
+
+#: views/view-import.php:91
+msgid "URL"
+msgstr "آدرس"
+
+#: views/view-import.php:90
+msgid "File Upload"
+msgstr "بارگذاری پرونده"
+
+#: views/view-import.php:88
+msgid "Import Source"
+msgstr "درون‌ریزی منبع"
+
+#: views/view-import.php:71
+msgid "You can also choose to import it as a new table, to replace an existing table, or to append the rows to an existing table."
+msgstr "همچنین می‌توانید انتخاب کنید که آن را به‌عنوان یک جدول جدید وارد کنید؛ جایگزین یکی از  جدول‌های موجود کنید یا ردیف‌هایش را به یکی از  جدول‌های موجود اضافه کنید."
+
+#: views/view-import.php:70
+msgid "To import tables, select and enter the import source in the following form."
+msgstr "برای درون‌ریزی جدول، منبع درون‌ریزی را در فرم زیر انتخاب و پرونده وارد کنید."
+
+#: views/view-import.php:53
+msgid "Import Tables"
+msgstr "درون‌ریزی جدول‌ها"
+
+#: views/view-import.php:49
+msgid "Error: The import failed."
+msgstr "خطا: درون‌ریزی انجام نشد."
+
+#: views/view-export.php:181
+msgid "Note: Support for ZIP file creation seems not to be available on this server."
+msgstr "توجه: به نظر می‌رسد روی این سرور، قابلیت پشتیبانی از ایجاد فایل زیپ در دسترس نیست."
+
+#: views/view-export.php:178
+msgid "(Mandatory if more than one table is selected.)"
+msgstr "(در صورت انتخاب بیش از یک جدول الزامی است.)"
+
+#: views/view-export.php:178
+msgid "Create a ZIP archive."
+msgstr "ایجاد یک بایگانی Zip"
+
+#: views/view-export.php:172
+msgid "ZIP file"
+msgstr "پرونده فشرده"
+
+#: views/view-export.php:168
+msgid "(Only needed for CSV export.)"
+msgstr "(فقط برای برون‌بری CSV نیاز است.)"
+
+#: views/view-export.php:159
+msgid "CSV Delimiter"
+msgstr "جداساز CSV"
+
+#: views/view-export.php:146
+msgid "Export Format"
+msgstr "ساختار برون‌بری"
+
+#: views/view-export.php:131 views/view-import.php:166
+msgid "ID %1$s: %2$s"
+msgstr "شناسه %1$s: %2$s"
+
+#: views/view-export.php:108
+msgid "Select all"
+msgstr "انتخاب همه"
+
+#: views/view-export.php:105
+msgid "Tables to Export"
+msgstr "جدول‌ها برای برون‌بری"
+
+#: views/class-all-tables-list-table.php:402 views/view-export.php:88
+msgid "You should <a href=\"%1$s\">add</a> or <a href=\"%2$s\">import</a> a table to get started!"
+msgstr "برای شروع، لازم است یک جدول را <a href=\"%1$s\">ایجاد</a> یا <a href=\"%2$s\">درون‌ریزی</a> کنید!"
+
+#: views/view-export.php:70
+msgid "For the JSON format, the table data and the table options are exported."
+msgstr "برای ساختار JSON داده‌ها و گزینه‌های جدول برون‌بری خواهد شد."
+
+#: views/view-export.php:69
+msgid "Be aware that for the CSV and HTML formats only the table data, but no table options are exported!"
+msgstr "دقت کنید که برای فایل CSV و فورمت‌های HTML فقط داده‌های جدول (بدون گزینه‌های جدول) برون‌بری خواهد شد."
+
+#: views/view-export.php:67
+msgid "If you choose more than one table, the exported files will automatically be stored in a ZIP archive file."
+msgstr "اگر بیش از یک جدول انتخاب کنید، فایل‌های برون‌بری‌شده، به‌صورت خودکار، در حالت زیپ ذخیره خواهند شد."
+
+#: views/view-export.php:66
+msgid "To export, select the tables and the desired export format."
+msgstr "برای برون‌بری، جدول(ها) و ساختار برون‌بری را انتخاب کنید."
+
+#: views/view-export.php:63
+msgid "Regularly exporting tables is also recommended as a backup of your data."
+msgstr "برای پشتیبان‌گیری از داده‌هایتان نیز پیشنهاد می‌شود جدول‌ها را به‌صورت مداوم برون‌بری کنید."
+
+#: views/view-export.php:62
+msgid "Exporting a table allows you to use it in other programs, like spreadsheets applications."
+msgstr "برون‌بری جدول این امکان را به شما می‌دهد که آن را در نرم‌افزارهای دیگر (مثلاً در نرم‌افزارهای صفحه‌گسترده) استفاده کنید."
+
+#: views/view-export.php:188
+msgctxt "button"
+msgid "Download Export File"
+msgstr "بارگیری فایل برون‌بری"
+
+#: views/view-export.php:44 views/view-export.php:47
+msgid "Export Tables"
+msgstr "برون‌بری جدول‌ها"
+
+#: views/view-export.php:39
+msgid "Error: The ZIP file could not be created."
+msgstr "خطا: پرونده فشرده Zip ایجاد نشد."
+
+#: views/view-export.php:38
+msgid "Error: The internal data of this table is corrupted!"
+msgstr "خطا: داده‌های داخلی این جدول خراب شده است!"
+
+#: views/view-export.php:37 views/view-list.php:104
+msgid "Error: This table could not be loaded!"
+msgstr "خطا: امکان بارگذاری این جدول وجود ندارد!"
+
+#: views/view-export.php:36
+msgid "Error: The export failed."
+msgstr "خطا: برون‌بری شکست خورد."
+
+#: views/class-editor-button-thickbox-list-table.php:186
+msgid "You should add or import a table on the TablePress screens to get started!"
+msgstr "برای شروع باید جدولی را روی صفحه‌های TablePress اضافه یا درون‌ریزی کنید!"
+
+#: views/class-all-tables-list-table.php:393
+#: views/class-editor-button-thickbox-list-table.php:184
+#: views/view-export.php:87
+msgid "No tables found."
+msgstr "جدولی یافت نشد"
+
+#: views/class-all-tables-list-table.php:236
+#: views/class-editor-button-thickbox-list-table.php:161
+msgid "(no description)"
+msgstr "(بدون توضیحات)"
+
+#: views/class-editor-button-thickbox-list-table.php:85
+msgid "Action"
+msgstr "عملیات"
+
+#: views/class-all-tables-list-table.php:90
+#: views/class-editor-button-thickbox-list-table.php:82
+msgid "ID"
+msgstr "شناسه"
+
+#: views/view-editor_button_thickbox.php:128 views/view-list.php:216
+msgid "Search Tables"
+msgstr "جستجوی جدول‌ها"
+
+#: views/view-editor_button_thickbox.php:121 views/view-list.php:208
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "نتایج جستجو برای &#xAB;%s&#xBB;"
+
+#: views/class-editor-button-thickbox-list-table.php:175
+#: views/view-editor_button_thickbox.php:118
+msgid "Insert Shortcode"
+msgstr "کدکوتاه را وارد کنید"
+
+#: views/view-editor_button_thickbox.php:117
+msgid "You may insert a table into a post or page here."
+msgstr "اینجا میتوانید یک جدول را وارد برگه یا نوشته نمایید."
+
+#: views/view-editor_button_thickbox.php:70
+#: views/view-editor_button_thickbox.php:115
+msgid "List of Tables"
+msgstr "لیست جدولها"
+
+#: views/view-edit.php:532 views/view-edit.php:567
+msgid "Back to the List of Tables"
+msgstr "به لیست جدولها بازگردید"
+
+#: views/view-edit.php:563
+msgid "Please see the <a href=\"%s\">TablePress FAQ page</a> for further instructions."
+msgstr "برای اطلاعات بیشتر <a href=\"%s\">TablePress صفحه سوالات متداول</a> را ببینید."
+
+#: views/view-edit.php:561
+msgid "Because of this error, the table can not be edited at this time, to prevent possible further data loss."
+msgstr "بخاطر این خطا، جدول فعلا قابل ویرایش نیست، تا از حذف اطلاعات جلوگیری گردد."
+
+#: views/view-edit.php:554
+msgid "The internal data of table &#8220;%1$s&#8221; (ID %2$s) is corrupted."
+msgstr "داده‌های داخلی جدول &#8220;%1$s&#8221; (شناسه %2$s) خراب شده است."
+
+#: views/view-edit.php:550 admin/js/build/edit.js:1 admin/js/edit.js:797
+#: admin/js/edit.js:926 admin/js/edit.js:940
+msgid "Attention: Unfortunately, an error occurred."
+msgstr "هشدار: متأسفانه خطایی رخ داد."
+
+#: views/view-edit.php:504
+msgid "For advanced use only."
+msgstr "فقط برای استفادۀ پیشرفته."
+
+#: views/view-edit.php:503
+msgid "Custom Commands"
+msgstr "دستورات سفارشی"
+
+#: views/view-edit.php:496
+msgid "Enable horizontal scrolling, to make viewing tables with many columns easier."
+msgstr "پیمایش افقی را فعال کنید تا نمایش جدول‌های دارای ستون‌های زیاد آسان‌تر شود."
+
+#: views/view-edit.php:495
+msgid "Horizontal Scrolling"
+msgstr "پیمایش افقی"
+
+#: views/view-edit.php:492
+msgid "Enable the table information display, with information about the currently visible data, like the number of rows."
+msgstr "نمایش اطلاعاتی از جدول درحال‌نمایش را فعال می‌کند؛ ازجمله تعداد سطرهای جدول."
+
+#: views/view-edit.php:491
+msgid "Info"
+msgstr "اطلاعات"
+
+#: views/view-edit.php:488
+msgid "Allow the visitor to change the number of rows shown when using pagination."
+msgstr "به بازدیدکنندگان اجازه دهید که در حالت صفحه‌بندی جدول، تعداد ردیف‌های نمایش‌داده‌شده را تغییر دهند."
+
+#: views/view-edit.php:487
+msgid "Pagination Length Change"
+msgstr "تغییر طول صفحه‌بندی"
+
+#: views/view-edit.php:484
+msgid "Show %s rows per page."
+msgstr "در هر صفحه %s ردیف را نمایش بده."
+
+#: views/view-edit.php:483
+msgid "Enable pagination of the table (viewing only a certain number of rows at a time) by the visitor."
+msgstr "صفحه‌بندی جدول به‌وسیلۀ بازدیدکنندگان (نمایش تعداد مشخصی از ردیف‌ها در هر بار) را فعال کنید."
+
+#: views/view-edit.php:482
+msgid "Pagination"
+msgstr "صفحه‌بندی"
+
+#: views/view-edit.php:479
+msgid "Enable the visitor to filter or search the table. Only rows with the search word in them are shown."
+msgstr "این امکان را به بازدیدکنندگان بدهید که بتوانند داده‌های جدول را فیلتر یا در آن‌ها جستجو کنند. در این حالت، وقتی بازدیدکننده چیزی را در فیلد جستجو می‌نویسد، فقط ردیف‌هایی که شامل عبارت جستجو می‌شوند، نمایش داده خواهد شد."
+
+#: views/view-edit.php:478
+msgid "Search/Filtering"
+msgstr "جستجو/فیلتر"
+
+#: views/view-edit.php:475
+msgid "Enable sorting of the table by the visitor."
+msgstr "اجازه دهید ردیف‌های جدول به‌وسیلۀ بازدیدکنندگان مرتب شود."
+
+#: views/view-edit.php:474
+msgid "Sorting"
+msgstr "مرتب‌سازی"
+
+#: views/view-edit.php:467
+msgid "These features and options are only available when the &#8220;%1$s&#8221; checkbox in the &#8220;%2$s&#8221; section is checked."
+msgstr "این قابلیت‌ها و گزینه‌ها فقط وقتی در دسترس خواهند بود که گزینۀ &#8220;%1$s&#8221; در بخش &#8220;%2$s&#8221; فعال باشد."
+
+#: views/view-edit.php:451
+msgid "This is NOT the place to enter <a href=\"%s\">Custom CSS</a> code!"
+msgstr "اینجا محل درج <a href=\"%s\">کدهای دلخواه CSS</a> نیست!"
+
+#: views/view-edit.php:451
+msgid "Additional CSS classes for styling purposes can be entered here."
+msgstr "کلاس‌های CSS اضافی را می‌توانید در اینجا وارد کنید تا برای طراحی ظاهری جدول استفاده شوند."
+
+#: views/view-edit.php:450 admin/js/build/edit.js:1 admin/js/edit.js:196
+msgid "Extra CSS Classes"
+msgstr "کلاس‌های CSS اضافی"
+
+#: views/view-edit.php:440
+msgid "Print Table Description"
+msgstr "درج توضیحات جدول"
+
+#: views/view-edit.php:434 views/view-edit.php:444
+msgid "below"
+msgstr "پایین جدول"
+
+#: views/view-edit.php:433 views/view-edit.php:443
+msgid "above"
+msgstr "بالای جدول"
+
+#: views/view-edit.php:430
+msgid "Print Table Name"
+msgstr "درج نام جدول"
+
+#: views/view-edit.php:427
+msgid "Highlight a row while the mouse cursor hovers above it by changing its background color."
+msgstr "هایلایت کردن ردیف در هنگامی‌که نشانگر ماوس روی آن قرار دارد؛ به‌وسیلۀ تغییر رنگ پس‌زمینۀ آن ردیف."
+
+#: views/view-edit.php:426
+msgid "Row Hover Highlighting"
+msgstr "برجسته‌سازی ردیف در هاور"
+
+#: views/view-edit.php:423
+msgid "The background colors of consecutive rows shall alternate."
+msgstr "تکرار یکی‌درمیان رنگ پس‌زمینۀ ردیف‌ها."
+
+#: views/view-edit.php:422
+msgid "Alternating Row Colors"
+msgstr "رنگ‌های متناوب ردیف"
+
+#: views/view-edit.php:419
+msgid "The last row of the table is the table footer."
+msgstr "آخرین ردیف جدول، ردیف نهایی جدول است."
+
+#: views/view-edit.php:418 admin/js/build/edit.js:1 admin/js/edit.js:337
+msgid "Table Foot Row"
+msgstr "ردیف نهایی جدول"
+
+#: views/view-edit.php:415
+msgid "The first row of the table is the table header."
+msgstr "اولین ردیف جدول «ردیف عناوین ستون‌های جدول» است."
+
+#: views/view-edit.php:414 views/view-edit.php:467 admin/js/build/edit.js:1
+#: admin/js/edit.js:327
+msgid "Table Head Row"
+msgstr "ردیف عناوین ستون‌های جدول"
+
+#: views/view-edit.php:351
+msgid "Delete Table"
+msgstr "حذف جدول"
+
+#: views/view-edit.php:348
+msgid "Export Table"
+msgstr "برون‌بری جدول"
+
+#: views/view-edit.php:345
+msgid "Copy Table"
+msgstr "رونوشت جدول"
+
+#: views/view-edit.php:343
+msgid "Other Actions"
+msgstr "اقدامات متفرقه"
+
+#: views/view-edit.php:296
+msgid "Add %s column(s)"
+msgstr "افزودن %s ستون"
+
+#: views/view-edit.php:293 views/view-edit.php:297
+msgid "Add"
+msgstr "افزودن"
+
+#: views/view-edit.php:292
+msgid "Add %s row(s)"
+msgstr "افزودن %s ردیف"
+
+#: views/class-all-tables-list-table.php:217 views/view-edit.php:257
+#: views/view-edit.php:263
+msgid "Delete"
+msgstr "حذف"
+
+#: views/view-edit.php:256 views/view-edit.php:262
+msgid "Insert"
+msgstr "درج"
+
+#: views/view-edit.php:255 views/view-edit.php:261
+msgid "Duplicate"
+msgstr "تکرار"
+
+#: views/view-edit.php:260 views/view-edit.php:273 views/view-edit.php:285
+msgid "Selected columns"
+msgstr "ستون‌های منتخب"
+
+#: views/view-edit.php:282 views/view-edit.php:287
+msgid "Show"
+msgstr "نمایش"
+
+#: views/view-edit.php:281 views/view-edit.php:286
+msgid "Hide"
+msgstr "مخفی"
+
+#: views/view-edit.php:254 views/view-edit.php:268 views/view-edit.php:280
+msgid "Selected rows"
+msgstr "ردیف‌های منتخب"
+
+#: views/view-edit.php:393
+msgid "Combining consecutive cells within the same column is called &#8220;rowspanning&#8221;."
+msgstr "ترکیب سلول‌های متوالی در یک ستون &#8220;rowspanning&#8221; نامیده می‌شود."
+
+#: views/view-edit.php:392
+msgid "Combining consecutive cells within the same row is called &#8220;colspanning&#8221;."
+msgstr "ترکیب سلول‌های متوالی در یک ردیف &#8220;colspanning&#8221; نامیده می‌شود."
+
+#: views/view-edit.php:391
+msgid "Table cells can span across more than one column or row."
+msgstr "سلول‌های جدول می‌توانند در طول بیش از یک ستون یا ردیف، گسترده شوند."
+
+#: views/view-edit.php:249 views/view-edit.php:389
+msgid "Help on combining cells"
+msgstr "در ادغام سلول‌ها راهنمایی کنید"
+
+#: views/view-edit.php:249
+msgid "?"
+msgstr "؟"
+
+#: views/view-edit.php:244 views/view-edit.php:368 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:111
+msgid "Advanced Editor"
+msgstr "ویرایشگر پیشرفته"
+
+#: views/view-edit.php:243 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:106
+msgid "Insert Image"
+msgstr "درج تصویر"
+
+#: views/view-edit.php:242 admin/js/build/edit.js:1
+#: admin/js/_edit-contextmenu.js:101
+msgid "Insert Link"
+msgstr "درج پیوند"
+
+#: views/view-edit.php:186
+msgid "%1$s by %2$s"
+msgstr "%1$s توسط %2$s"
+
+#: views/class-all-tables-list-table.php:95 views/view-edit.php:185
+msgid "Last Modified"
+msgstr "آخرین ویرایش"
+
+#: views/view-edit.php:172
+msgid "Shortcode"
+msgstr "کد کوتاه"
+
+#: views/view-edit.php:171
+msgid "The Table ID can only consist of letters, numbers, hyphens (-), and underscores (_)."
+msgstr "شناسۀ جدول فقط می‌تواند شامل حرف، عدد، خط تیره (-) یا آندرلاین (_) باشد."
+
+#: views/view-edit.php:168
+msgid "Table ID"
+msgstr "شناسه جدول"
+
+#: views/view-edit.php:75 views/view-edit.php:467 admin/js/build/edit.js:1
+#: admin/js/edit.js:327 admin/js/edit.js:337
+msgid "Table Options"
+msgstr "گزینه‌های جدول"
+
+#: views/view-edit.php:74
+msgid "Table Manipulation"
+msgstr "دست‌کاری جدول"
+
+#: views/view-edit.php:73
+msgid "Table Content"
+msgstr "محتوای جدول"
+
+#: views/view-edit.php:72
+msgid "Table Information"
+msgstr "اطلاعات جدول"
+
+#: views/view-edit.php:91
+msgid "Insert into Table"
+msgstr "درج در داخل جدول"
+
+#: views/view-edit.php:54 views/view-list.php:99
+msgid "Error: The table could not be deleted."
+msgstr "خطا: جدول نمی‌تواند حذف شود."
+
+#: views/view-edit.php:53
+msgid "The table was imported successfully."
+msgstr "جدول با موفقیت درون‌ریزی شد."
+
+#: views/view-edit.php:52
+msgid "You are now seeing the copied table, which has the table ID &#8220;%s&#8221;."
+msgstr "اکنون جدولی را که کپی شده است، می‌بینید؛ که دارای شناسۀ &#8220;%s&#8221; است."
+
+#: views/view-edit.php:52 views/view-list.php:100 views/view-list.php:101
+msgid "The table was copied successfully."
+msgid_plural "The tables were copied successfully."
+msgstr[0] "جدول(ها) با موفقیت رونوشت شد."
+
+#: views/view-edit.php:51
+msgid "The table was added successfully."
+msgstr "جدول با موفقیت افزوده شد."
+
+#: views/view-add.php:93
+msgid "The number of columns in your table."
+msgstr "تعداد ستون‌های جدول شما."
+
+#: views/view-add.php:91
+msgid "Number of Columns"
+msgstr "تعداد ستون"
+
+#: views/view-add.php:88
+msgid "The number of rows in your table."
+msgstr "تعداد ردیف‌های جدول شما."
+
+#: views/view-add.php:87 views/view-add.php:92 views/view-edit.php:292
+#: views/view-edit.php:296
+msgid "This field must contain a positive number."
+msgstr "این قسمت باید حاوی یک عدد مثبت باشد."
+
+#: views/view-add.php:86
+msgid "Number of Rows"
+msgstr "تعداد ردیف"
+
+#: views/view-add.php:83
+msgid "A description of the contents of your table."
+msgstr "توضیحات در مورد محتوای جدول شما."
+
+#: views/view-add.php:81
+msgid "(optional)"
+msgstr "(اختیاری)"
+
+#: views/class-all-tables-list-table.php:92
+#: views/class-editor-button-thickbox-list-table.php:84 views/view-add.php:81
+#: views/view-edit.php:181
+msgid "Description"
+msgstr "توضیحات"
+
+#: views/view-add.php:78
+msgid "The name or title of your table."
+msgstr "نام یا عنوان جدول شما"
+
+#: views/class-all-tables-list-table.php:91
+#: views/class-editor-button-thickbox-list-table.php:83 views/view-add.php:76
+#: views/view-edit.php:177
+msgid "Table Name"
+msgstr "نام جدول"
+
+#: views/view-add.php:59
+msgid "You can always change the name, description, and size of your table later."
+msgstr "بعداً نیز همیشه می‌توانید نام جدول، توضیحات و اندازۀ آن را تغییر دهید."
+
+#: views/view-add.php:56
+msgid "To add a new table, enter its name, a description (optional), and the number of rows and columns into the form below."
+msgstr "برای ایجاد جدول جدید، نام، توضیحات (اختیاری) و تعداد ردیف‌ها و ستون‌های آن را در فرم زیر وارد کنید."
+
+#: views/view-add.php:41
+msgid "Add Table"
+msgstr "افزودن جدول"
+
+#: views/view-add.php:36
+msgid "Error: The table could not be added."
+msgstr "خطا: جدول نمی‌تواند اضافه شود."
+
+#: views/view-about.php:247
+msgid "all customers, donors, contributors, supporters, reviewers, and users of the plugin!"
+msgstr "همۀ مشتریان، حامیان مالی، مشارکت‌کنندگان، پشتیبانی‌کنندگان، بازبینی‌کنندگان و کاربران افزونه!"
+
+#: views/view-about.php:244
+msgid "Special Thanks go to:"
+msgstr "تشکر ویژه از:"
+
+#: views/view-about.php:159
+msgid "Please rate and review the plugin in the <a href=\"%s\">WordPress Plugin Directory</a>."
+msgstr "لطفا در <a href=\"%s\">بانک افزونه‌های وردپرس</a> به این افزونه امتیاز دهید و نظرتان را دربارۀ آن بنویسید."
+
+#: views/view-about.php:155
+msgid "This plugin was written and developed by <a href=\"%s\">Tobias Bäthge</a>."
+msgstr "این افزونه را <a href=\"%s\">Tobias Bäthge</a> نوشته و توسعه داده است."
+
+#: views/view-about.php:121
+msgid "Please see the <a href=\"%s\">Documentation</a> for a list of these selectors and for styling examples."
+msgstr "برای دیدن فهرستی از انتخابگرهای CSS و مثال‌های طراحی ظاهر، لطفاً <a href=\"%s\">مستندات</a> را ببینید."
+
+#: views/view-about.php:120
+msgid "For this, each table is given certain CSS classes that can be used as CSS selectors."
+msgstr "برای این منظور، هر جدول می‌تواند کلاس CSS مخصوص به خود داشته باشد تا به عنوان انتخابگر CSS استفاده شود."
+
+#: views/view-about.php:118
+msgid "Tables can be styled by changing and adding CSS commands."
+msgstr "ظاهر جدول‌ها می‌تواند با تغییر دادن یا افزودن فرمان‌های CSS طراحی شود."
+
+#: views/view-about.php:102
+msgid "To easily add a link or an image to a cell, use the provided buttons."
+msgstr "برای افزودن آسان لینک یا تصویر به سلول، از دکمه‌های ارائه‌شده استفاده کنید."
+
+#: views/view-about.php:97
+msgid "At first, you should add or import a table."
+msgstr "در ابتدا لازم است جدولی را اضافه یا درون‌ریزی کنید."
+
+#: views/view-about.php:80
+msgid "Tables may contain text, numbers, formulas, and even HTML code (e.g. to include images or links)."
+msgstr "جدول‌ها ممکن است حاوی متن، اعداد، فرمول‌ها و حتی کدهای HTML باشند (به‌عنوان‌مثال برای اینکه شامل تصاویر یا پیوندها شوند)."
+
+#: views/view-about.php:79
+msgid "TablePress allows you to create and manage tables in the admin area of WordPress."
+msgstr "TablePress به شما امکان می‌دهد تا جدول‌ها را در پیشخوان مدیریت وردپرس ایجاد و مدیریت کنید."
+
+#: views/view-about.php:51
+msgid "Debug and Version Information"
+msgstr "اطلاعات اشکال زدایی و نسخه"
+
+#: views/view-about.php:50
+msgid "Credits and Thanks"
+msgstr "با تشکر از"
+
+#: views/view-about.php:49
+msgid "Author and License"
+msgstr "نویسنده و مجوز"
+
+#: views/view-about.php:48
+msgid "Help and Support"
+msgstr "راهنمایی و پشتیبانی"
+
+#: views/view-about.php:47
+msgid "More Information and Documentation"
+msgstr "اطلاعات و مستندات بیشتر"
+
+#: views/view-about.php:46
+msgid "Usage"
+msgstr "کاربرد"
+
+#: views/view-about.php:45
+msgid "Plugin Purpose"
+msgstr "هدف افزونه"
+
+#: models/model-table.php:448
+msgid "Copy of %s"
+msgstr "یک نسخه از %s"
+
+#: controllers/controller-admin.php:195 models/model-table.php:446
+#: views/class-all-tables-list-table.php:196
+#: views/class-editor-button-thickbox-list-table.php:146
+#: views/view-export.php:129 views/view-import.php:164 admin/js/build/edit.js:1
+#: admin/js/edit.js:682
+msgid "(no name)"
+msgstr "(بدون نام)"
+
+#: controllers/controller-frontend.php:808
+#: views/class-all-tables-list-table.php:280
+msgid "%s ago"
+msgstr "%s قبل"
+
+#: controllers/controller-admin_ajax.php:273 views/view-preview_table.php:60
+msgid "Because of CSS styling in your theme, the table might look different on your page!"
+msgstr "به دلیل تغییرات ظاهری که با CSS در تم وبگاهتان وجود دارد، این جدول ممکن است در سایتتان به‌شکل دیگری نمایش داده شود."
+
+#: controllers/controller-admin_ajax.php:272 views/view-preview_table.php:60
+msgid "This is a preview of your table."
+msgstr "این پیش‌نمایش جدول شما است."
+
+#: controllers/controller-admin.php:1332 views/view-options.php:176
+#: views/view-options.php:185
+msgid "Uninstall TablePress"
+msgstr "حذف TablePress"
+
+#: controllers/controller-admin.php:1330
+msgid "Go to Dashboard"
+msgstr "رفتن به پیشخوان"
+
+#: controllers/controller-admin.php:1328
+msgid "Go to &#8220;Plugins&#8221; page"
+msgstr "به صفحۀ &#8220;Plugins&#8221; برو"
+
+#: controllers/controller-admin.php:1311
+msgid "All tables, data, and options were deleted."
+msgstr "تمام جدول‌ها، داده‌ها و گزینه‌ها حذف شدند."
+
+#: controllers/controller-admin.php:1310
+msgid "TablePress was uninstalled successfully."
+msgstr "TablePress با موفقیت حذف شد."
+
+#: controllers/controller-admin.php:1223
+msgid "The table could not be loaded."
+msgstr "جدول بارگیری نمی‌شود."
+
+#: controllers/controller-admin.php:1213 controllers/controller-admin.php:1223
+#: views/class-all-tables-list-table.php:220 views/view-edit.php:317
+#: views/view-preview_table.php:54
+msgid "Preview"
+msgstr "پیش‌نمایش"
+
+#: controllers/controller-admin.php:1213
+#: controllers/controller-admin_ajax.php:285
+msgid "The preview could not be loaded."
+msgstr "پیش‌نمایش بارگیری نمی‌شود."
+
+#: classes/class-import.php:178
+msgid "Imported from Manual Input"
+msgstr "درون‌ریزی به صورت دستی"
+
+#: controllers/controller-admin.php:618
+msgid "About TablePress"
+msgstr "درباره TablePress"
+
+#: controllers/controller-admin.php:617 controllers/controller-admin.php:619
+msgid "About"
+msgstr "درباره"
+
+#: controllers/controller-admin.php:610 controllers/controller-admin.php:611
+#: controllers/controller-admin.php:612
+msgid "Plugin Options"
+msgstr "گزینه‌های افزونه"
+
+#: controllers/controller-admin.php:605
+msgctxt "navigation bar"
+msgid "Export"
+msgstr "برون‌بری"
+
+#: controllers/controller-admin.php:603 controllers/controller-admin.php:604
+msgid "Export a Table"
+msgstr "برون‌بری جدول‌ها"
+
+#: controllers/controller-admin.php:598
+msgctxt "navigation bar"
+msgid "Import"
+msgstr "درون‌ریزی"
+
+#: controllers/controller-admin.php:596 controllers/controller-admin.php:597
+msgid "Import a Table"
+msgstr "درون‌ریزی جدول‌ها"
+
+#: controllers/controller-admin.php:589
+msgid "Edit Table"
+msgstr "ویرایش جدول"
+
+#: controllers/controller-admin.php:584
+msgid "Add New"
+msgstr "افزودن"
+
+#: controllers/controller-admin.php:582 controllers/controller-admin.php:583
+#: views/view-add.php:40
+msgid "Add New Table"
+msgstr "افزودن جدول جدید"
+
+#: controllers/controller-admin.php:575 controllers/controller-admin.php:576
+#: controllers/controller-admin.php:577
+msgid "All Tables"
+msgstr "همۀ جدول‌ها"
+
+#: controllers/controller-admin.php:503
+msgctxt "Default CSV delimiter in the translated language (\";\", \",\", or \"tab\")"
+msgid ","
+msgstr ","
+
+#: controllers/controller-admin.php:374
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: controllers/controller-admin.php:373
+msgid "Documentation"
+msgstr "مستندات"
+
+#: controllers/controller-admin.php:372
+msgid "FAQ"
+msgstr "سوالات متداول"
+
+#: controllers/controller-admin.php:372
+msgid "Frequently Asked Questions"
+msgstr "سوالات متداول"
+
+#: controllers/controller-admin.php:356
+msgid "Plugin page"
+msgstr "صفحه افزونه"
+
+#: controllers/controller-admin.php:330
+msgid "TablePress Table"
+msgstr "جدول TablePress"
+
+#: classes/class-view.php:449 views/view-edit.php:320
+msgid "Save Changes"
+msgstr "ذخیره‏ تغییرات"
+
+#. Plugin Name of the plugin
+#: classes/class-view.php:408
+msgid "TablePress"
+msgstr "TablePress"
+
+#: classes/class-view.php:158 controllers/controller-admin.php:123
+#: views/view-editor_button_thickbox.php:70
+#: views/view-editor_button_thickbox.php:115
+#: views/view-options_custom_css.php:38 views/view-preview_table.php:54
+msgid "%1$s &lsaquo; %2$s"
+msgstr "%1$s &lsaquo; %2$s"
+
+#: classes/class-view.php:118
+msgid "For more information:"
+msgstr "برای اطلاعات بیشتر:"
+
+#: classes/class-view.php:113
+msgid "TablePress Help"
+msgstr "راهنمای TablePress"
+
+#: classes/class-render.php:510 views/class-all-tables-list-table.php:207
+msgid "Edit"
+msgstr "ویرایش"
+
+#: classes/class-render.php:345
+msgid "<!-- The table with the ID %s is empty! -->"
+msgstr "<!-- جدول دارای شناسۀ %s خالی است! -->"
+
+#: classes/class-import-legacy.php:173 classes/class-import-legacy.php:270
+#: libraries/html-parser.class.php:68
+msgid "The imported file contains errors:"
+msgstr "فایل درون‌ریزی‌شده حاوی خطا است:"
+
+#: classes/class-import-legacy.php:74
+msgid "XLSX - Microsoft Excel 2007-2019 (experimental)"
+msgstr "XLSX - نسخۀ 2007-2019 مایکروسافت اکسل (تجربی)"
+
+#: classes/class-import-legacy.php:73
+msgid "XLS - Microsoft Excel 97-2003 (experimental)"
+msgstr "XLS - نسخۀ 97-2003 مایکروسافت اکسل (تجربی)"
+
+#: classes/class-export.php:63
+msgid "\\t (tabulator)"
+msgstr "\\t (جدول‌بند)"
+
+#: classes/class-export.php:62
+msgid ", (comma)"
+msgstr ", (کاما)"
+
+#: classes/class-export.php:61
+msgid "; (semicolon)"
+msgstr "; (نقطه‌ویرگول)"
+
+#: classes/class-export.php:58 classes/class-import-legacy.php:72
+msgid "JSON - JavaScript Object Notation"
+msgstr "JSON - JavaScript Object Notation"
+
+#: classes/class-export.php:57 classes/class-import-legacy.php:70
+msgid "HTML - Hypertext Markup Language"
+msgstr "HTML - Hypertext Markup Language"
+
+#: classes/class-export.php:56 classes/class-import-legacy.php:68
+msgid "CSV - Character-Separated Values"
+msgstr "CSV - Character-Separated Values"

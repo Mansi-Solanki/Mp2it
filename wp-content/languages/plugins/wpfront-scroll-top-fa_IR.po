@@ -1,0 +1,271 @@
+# Translation of Plugins - WPFront Scroll Top - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - WPFront Scroll Top - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-19 19:42:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - WPFront Scroll Top - Stable (latest release)\n"
+
+#: classes/class-wpfront-scroll-top.php:99
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: classes/class-wpfront-scroll-top-options.php:70
+#: templates/options-template.php:334
+msgid "Text"
+msgstr "متن"
+
+#. Author URI of the plugin
+msgid "http://wpfront.com"
+msgstr "http://wpfront.com"
+
+#. Description of the plugin
+msgid "Allows the visitor to easily scroll back to the top of the page."
+msgstr "به بازدید کننده این امکان را می دهد که به راحتی به بالای صفحه حرکت کند."
+
+#. Plugin URI of the plugin
+msgid "http://wpfront.com/scroll-top-plugin/"
+msgstr "http://wpfront.com/scroll-top-plugin/"
+
+#: templates/options-template.php:719
+msgid "Custom URL"
+msgstr "مسیر(url) سفارشی"
+
+#: templates/options-template.php:496
+msgid "Exclude in following pages"
+msgstr "مستثنی شدن در صفحات زیر"
+
+#: templates/options-template.php:475
+msgid "Include in following pages"
+msgstr "شامل شدن در صفحات زیر"
+
+#: templates/options-template.php:470
+msgid "All pages."
+msgstr "تمام صفحات"
+
+#: templates/options-template.php:429 templates/options-template.php:444
+msgid "[Negative value allowed.]"
+msgstr "[مقدار منفی مجاز می باشد.]"
+
+#: templates/options-template.php:414
+msgid "Top Left"
+msgstr "بالا چپ"
+
+#: templates/options-template.php:413
+msgid "Top Right"
+msgstr "بالا راست"
+
+#: templates/options-template.php:412
+msgid "Bottom Left"
+msgstr "پایین چپ"
+
+#: templates/options-template.php:411
+msgid "Bottom Right"
+msgstr "پایین راست"
+
+#: templates/options-template.php:522
+msgid "Text Button"
+msgstr "متن دکمه"
+
+#: templates/options-template.php:332
+msgid "Image"
+msgstr "تصویر"
+
+#: templates/options-template.php:304
+msgid "[Button will be hidden on iframes, usually inside popups.]"
+msgstr "[دکمه در iframe ها مخفی خواهد شد، معمولا درون پاپ آپ ها.]"
+
+#: templates/options-template.php:290
+msgid "[Button will be hidden on 'wp-admin'.]"
+msgstr "[دکمه در wp-admin مخفی خواهد شد]"
+
+#: templates/options-template.php:248
+msgid "[Button will be hidden on devices with lesser or equal width.]"
+msgstr "[دکمه در دستگاه های با عرض(width) کوچکتر یا مساوی یک مقدار مشخص مخفی خواهد شد.]"
+
+#: templates/options-template.php:234
+msgid "[Button will be hidden on small devices when the width matches.]"
+msgstr "[دکمه در دستگاه های کوچک با عرض(width) مشخص مخفی خواهد شد.]"
+
+#: templates/options-template.php:220
+msgid "[Button will be auto hidden after this duration in seconds, if enabled.]"
+msgstr "[دکمه به صورت خودکار بعد از گذشت مدت زمان مشخص(به ثانیه) مخفی خواهد شد، در صورتی که فعال باشد.]"
+
+#: templates/options-template.php:193
+msgid "[Window scroll duration in milliseconds.]"
+msgstr "[مدت زمان اسکرول پنجره مرورگر به میلی ثانیه.]"
+
+#: templates/options-template.php:179
+msgid "[Button fade duration in milliseconds.]"
+msgstr "[مدت زمان مخفی شدن دکمه به میلی ثانیه.]"
+
+#: templates/options-template.php:152
+msgid "[Set 0px to auto fit.]"
+msgstr "[مقدار 0px برای تنظیم به صورت خودکار قرار دهید.]"
+
+#: templates/options-template.php:146
+msgid "Button Size"
+msgstr "[ابعاد دکمه]"
+
+#: templates/options-template.php:136
+msgid "[Number of pixels to be scrolled before the button appears.]"
+msgstr "[تعداد پیکسل هایی که باید پیمایش شود قبل از آنکه دکمه ظاهر شود.]"
+
+#: templates/options-template.php:55
+msgid "WPFront Scroll Top Settings"
+msgstr "تنظیمات WPFront Scroll Top"
+
+#: classes/class-wpfront-scroll-top.php:428
+msgid "[Post]"
+msgstr "[پست]"
+
+#: classes/class-wpfront-scroll-top.php:419
+msgid "Home"
+msgstr "خانه"
+
+#: classes/class-wpfront-scroll-top.php:419
+#: classes/class-wpfront-scroll-top.php:423
+msgid "[Page]"
+msgstr "[صفحه]"
+
+#: classes/class-wpfront-scroll-top.php:182
+msgid "Scroll Top"
+msgstr "اسکرول به بالا (صفحه)"
+
+#. Plugin Name of the plugin
+#: classes/class-wpfront-scroll-top.php:182
+msgid "WPFront Scroll Top"
+msgstr "WPFront Scroll Top"
+
+#: classes/class-wpfront-scroll-top-options.php:82
+msgid "Display on Pages"
+msgstr "نمایش در صفحات"
+
+#: classes/class-wpfront-scroll-top-options.php:74
+#: classes/class-wpfront-scroll-top-options.php:80
+msgid "Custom CSS"
+msgstr "css سفارشی"
+
+#: classes/class-wpfront-scroll-top-options.php:72
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: classes/class-wpfront-scroll-top-options.php:71
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: classes/class-wpfront-scroll-top-options.php:68
+msgid "Margin Y"
+msgstr "فاصله محور Y"
+
+#: classes/class-wpfront-scroll-top-options.php:67
+msgid "Margin X"
+msgstr "فاصله محور X"
+
+#: classes/class-wpfront-scroll-top-options.php:66
+#: templates/options-template.php:392
+msgid "Location"
+msgstr "محل"
+
+#: classes/class-wpfront-scroll-top-options.php:58
+msgid "Hide on iframes"
+msgstr "عدم نمایش در iframe ها"
+
+#: classes/class-wpfront-scroll-top-options.php:57
+msgid "Hide on WP-ADMIN"
+msgstr "عدم نمایش در WP-ADMIN"
+
+#: classes/class-wpfront-scroll-top-options.php:56
+msgid "Image ALT"
+msgstr "مقدار ALT تصویر"
+
+#: classes/class-wpfront-scroll-top-options.php:55
+msgid "Button Style"
+msgstr "استایل دکمه"
+
+#: classes/class-wpfront-scroll-top-options.php:54
+msgid "Small Window Max Width"
+msgstr "حداکثر عرض پنجره های کوچک"
+
+#: classes/class-wpfront-scroll-top-options.php:53
+msgid "Hide on Small Window"
+msgstr "عدم نمایش در پنجره های کوچک"
+
+#: classes/class-wpfront-scroll-top-options.php:52
+msgid "Small Device Max Width"
+msgstr "حداکثر عرض دستگاه های کوچک"
+
+#: classes/class-wpfront-scroll-top-options.php:51
+msgid "Hide on Small Devices"
+msgstr "عدم نمایش در دستگاه های کوچک"
+
+#: classes/class-wpfront-scroll-top-options.php:50
+msgid "Auto Hide After"
+msgstr "مخفی شدن خودکار بعد از"
+
+#: classes/class-wpfront-scroll-top-options.php:49
+msgid "Auto Hide"
+msgstr "مخفی شدن خودکار"
+
+#: classes/class-wpfront-scroll-top-options.php:48
+msgid "Scroll Duration"
+msgstr "مدت زمان اسکرول"
+
+#: classes/class-wpfront-scroll-top-options.php:47
+msgid "Button Fade Duration"
+msgstr "مدت زمان مخفی شدن دکمه"
+
+#: classes/class-wpfront-scroll-top-options.php:46
+msgid "Button Opacity"
+msgstr "شفافیت دکمه"
+
+#: classes/class-wpfront-scroll-top-options.php:43
+msgid "Scroll Offset"
+msgstr "مقدار جابجایی اسکرول"
+
+#: classes/class-wpfront-scroll-top-options.php:41
+msgid "Enabled"
+msgstr "فعال"
+
+#: templates/options-template.php:754
+msgid "Settings Description"
+msgstr "توضیحات تنظیمات"
+
+#: templates/options-template.php:66
+msgid "If you have a caching plugin, clear the cache for the new settings to take effect."
+msgstr "اگر از افزونه کش استفاده می کنید، کش را پاک کنید تا تنظیمات جدید اعمال شود."
+
+#: classes/class-wpfront-scroll-top.php:441
+msgid "You do not have sufficient permissions to access this page."
+msgstr "شما مجوز کافی برای دسترسی به این صفحه را ندارید"
+
+#. Author of the plugin
+msgid "Syam Mohan"
+msgstr ""
+"ایجاد کننده: Syam Mohan\n"
+"مترجم: Afshin Talebi"
+
+#: templates/options-template.php:452
+msgid "Filter"
+msgstr "فیلتر"
+
+#: templates/options-template.php:276
+msgid "[Button will be hidden on browser window with lesser or equal width.]"
+msgstr "[دکمه در پنجره های مرورگر با طول کوچکتر یا مساوی با یک مقدار مشخص مخفی خواهد شد.]"
+
+#: templates/options-template.php:262
+msgid "[Button will be hidden on broswer window when the width matches.]"
+msgstr "[دکمه در پنجره مرورگر با عرض(width) مشخص مخفی خواهد شد.]"
+
+#: templates/options-template.php:75
+msgid "Display"
+msgstr "نمایش"
+
+#: templates/options-template.php:756
+msgid "Buy me a Beer or Coffee"
+msgstr "برای من یک نوشیدنی یا کافه بخر"

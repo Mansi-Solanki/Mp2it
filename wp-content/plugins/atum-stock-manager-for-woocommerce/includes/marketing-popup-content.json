@@ -1,0 +1,50 @@
+{
+	"background": {
+		"bg_image"   : "url(https://stockmanagementlabs.com/wp-content/uploads/2018/07/waves.svg)",
+		"bg_position": "bottom",
+		"bg_size"    : "contain",
+		"bg_repeat"  : "no-repeat",
+		"bg_color"   : "white"
+	},
+	"dash_background": {
+		"bg_image"   : "url(https://stockmanagementlabs.com/wp-content/uploads/2018/07/waves.svg)",
+		"bg_position": "bottom",
+		"bg_size"    : "contain",
+		"bg_repeat"  : "no-repeat",
+		"bg_color"   : "white"
+	},
+	"images": {
+		"logo"     : "https://stockmanagementlabs.com/wp-content/uploads/2022/12/launch-prices-1.gif",
+		"dash_logo": "https://stockmanagementlabs.com/wp-content/uploads/2022/12/launch-prices-1.gif",
+		"logo_css" : "width:238px;margin-bottom:15px;",
+		"top_left" : ""
+	},
+	"title": {
+		"text"      : "",
+		"text_color": "black",
+		"text_size" : "",
+		"text_align": "center"
+	},
+	"version": {
+		"text"      : "",
+		"text_color": "#FFF",
+		"background": "#ff4848"
+	},
+	"description": {
+		"text"           : "<strong>Welcome to 2023!</strong><br><br>Subscribe now to take advantage and run cheap forever. Launch prices of all our add-ons will end at the end of January. Some great new features are coming in 2023, so do not hesitate to click below!",
+		"text_color"     : "#6c757d",
+		"text_size"      : "14px",
+		"text_align"     : "center",
+		"dash_text_align": "left",
+		"padding"        : "0 28px 25px"
+	},
+	"buttons": [
+		{
+			"text" : "View add-ons",
+			"url"  : "https://stockmanagementlabs.com/addons/",
+			"class": "btn btn-primary",
+			"css"  : "width: 270px;"
+		}
+	],
+	"transient_key": "atum_launch_prices_2023"
+}
